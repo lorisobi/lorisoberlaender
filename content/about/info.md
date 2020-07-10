@@ -11,6 +11,5 @@ contact_info:
 type: ''
 
 ---
-## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
-
-## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
+<p class="bold">designer, layouter, illustrator, photographer, filmmaker</p>
+<p class="text">design work: <br>umweltschultag gelgk<br><br>layout work:  <br><a href="https://estore.sz-lessgym-kamenz.de">sz schulz gelgk</a><br><br>illustration work:<br><a href="https://instagram.com/lorisobi">my instagram</a><br><br>photography:<br><a href="https://instagram.com/lorisoberlaender">my 2nd instagram</a><br><br>filmmaking:<br><a href="https://www.youtube.com/watch?v=eUrJidl83ig&feature=youtu.be">quatromount crew projects</a></p>
